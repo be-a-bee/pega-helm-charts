@@ -1,0 +1,14 @@
+charts/pega/config/deploy/server.xml.tmpl
+  h_5fcc71d3594069 236
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "2a8628c4f0a95491753a42f4df461edc49e855ca",
+  "prompts": {},
+  "humans": {
+    "h_5fcc71d3594069": {
+      "author": "Talishetti, Praneeth <Praneeth.Talishetti@in.pega.com>"
+    }
+  }
+}
